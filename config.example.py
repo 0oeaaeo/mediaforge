@@ -1,8 +1,8 @@
 # COPY THIS FILE INTO A FILE CALLED config.py AND CHANGE THE VALUES AS NEEDED.
 # discord API bot token https://discord.com/developers/applications
-bot_token = "EXAMPLE_TOKEN"
+bot_token = "MTEzNTA1NjA0ODQxMjE2ODI0NQ.GxF2tu.KjoQgZSPnKQTHOUIrv2HeDi5ZeWOlvWZBcQvUo"
 # tenor API key https://developers.google.com/tenor/guides/quickstart#setup
-tenor_key = "EXAMPLE_KEY"
+tenor_key = "AIzaSyAU61E8x4ZYwDJUV__1OoUaamQy0ImiwC4"
 # BotBlock tokens. see https://pypi.org/project/discordlists.py/
 bot_list_data = None
 # bot_list_data = {
@@ -19,7 +19,7 @@ override_temp_dir = None
 # NOTICE is recommended, INFO prints more information about what bot is doing, WARNING only prints errors.
 log_level = "NOTICE"
 # amount of seconds cooldown per user commands have. set to 0 to disable cooldown
-cooldown = 3
+cooldown = 0
 # minimum height/width that media will be sized up to if below
 min_size = 100
 # maximum height/width that media will be downsized to if above
